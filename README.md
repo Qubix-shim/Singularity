@@ -5,7 +5,7 @@
 ╚════██║██║██║╚██╗██║██║   ██║██║   ██║██║     ██╔══██║██╔══██╗██║   ██║     ╚██╔╝  ██║   ██║╚════██║
 ███████║██║██║ ╚████║╚██████╔╝╚██████╔╝███████╗██║  ██║██║  ██║██║   ██║      ██║   ╚██████╔╝███████║
 ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝    ╚═════╝ ╚══════                                                                                                   
-pigOS v1.0 - x86_64 Operating System
+Singularity os v1.0 - x86_64 Operating System
 =========================================================
 </pre>
 
@@ -134,7 +134,7 @@ Note: Requires real GPU hardware, won't work in QEMU
 - User accounts (adduser, su, passwd)
 - Full shell with history & autocomplete
 - Text editors (vi, nano)
-- Window manager (PigWM)
+- Window manager (singleWM)
 - VDM display manager (real hardware)
 - Games (snake, tetris, matrix)
 - Package manager (rpk)
@@ -145,5 +145,5 @@ Note: Requires real GPU hardware, won't work in QEMU
 
 ## VERSION
 ```
-pigOS v1.0 - built with alot of AIs
+Singularity os v1.0 - built with love
 ```
