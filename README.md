@@ -26,7 +26,7 @@ sudo dnf install nasm gcc binutils grub2-tools xorriso mtools qemu-system-x86
 sudo pacman -S nasm gcc binutils grub xorriso mtools qemu
 ```
 
-*(before u run any of those check ur system to see if you have them)*
+*(before you run any of those check your system to see if you have them installed)*
 
 ## HOW TO BUILD
 ```
