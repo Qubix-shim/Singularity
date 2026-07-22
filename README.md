@@ -145,5 +145,5 @@ Note: Requires real GPU hardware, won't work in QEMU
 
 ## VERSION
 ```
-Singularity os v1.0 - built with love
+Singularity os v1.0 - made at school
 ```
