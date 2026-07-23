@@ -34,13 +34,13 @@ static void cmd_pigfetch(){
     vstr(3,1,COL(C_LRED,C_BLACK),"kxxx");
     vstr(7,1,COL(C_LRED,C_BLACK),"dl");
     vstr(19,1,COL(C_LRED,C_BLACK),";xOkkOkkOo");
-    vstr(info_x,1,COL(C_LCYAN,C_BLACK),"OS:      pigOS v1.0 x86_64");
+    vstr(info_x,1,COL(C_LCYAN,C_BLACK),"OS:      Singularity os v1.0 x86_64");
 
     // Row 2: cxxxxdxdxO00OxddOOOOkxkko - YELLOW on only 3 O's on right ear
     vstr(2,2,COL(C_LRED,C_BLACK),"cxxxxdxdxO00Oxdd");
     vstr(16,2,COL(C_YELLOW,C_BLACK),"OOO");
     vstr(19,2,COL(C_LRED,C_BLACK),"kko");
-    vstr(info_x,2,COL(C_LCYAN,C_BLACK),"Kernel:  pigKernel 1.0 (x86_64)");
+    vstr(info_x,2,COL(C_LCYAN,C_BLACK),"Kernel:  nebulaKernel 1.0 (x86_64)");
 
     // Row 3: 'xxxxxkkOOOOOkkxxkOOkOkx0' - YELLOW only on last two O's at position 18-19
     vstr(1,3,COL(C_DGREY,C_BLACK),"'");
