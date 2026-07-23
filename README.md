@@ -120,7 +120,7 @@ Note: Requires real GPU hardware, won't work in QEMU
 - GRUB bootloader
 - nebulaKernel (x86_64 Long Mode)
 - larpshell v5.9.3 (based on lash)
-- VDM - Vibecoded Display Manager (ported from erofs)
+- VDM - nebula Display Manager (ported from erofs)
 - siWM (text-mode window manager)
 - siFS (in-memory filesystem)
 - poing init system
