@@ -7,8 +7,8 @@
 
 static void cmd_pigfetch_dmesg(){
     vset(C_LGREEN,C_BLACK);
-    vpln("[  0.000] POUG: multiboot loaded pigKernel");
-    vpln("[  0.001] pigKernel 1.0 x86_64 Long Mode");
+    vpln("[  0.000] POUG: multiboot loaded nebulaKernel");
+    vpln("[  0.001] nebulaKernel 1.0 x86_64 Long Mode");
     vpln("[  0.002] VGA: 80x25 CP437 @ 0xB8000");
     vpln("[  0.003] PS/2: keyboard + mouse initialized");
     vpln("[  0.004] PCI: RTL8139 found at 00:03.0");
