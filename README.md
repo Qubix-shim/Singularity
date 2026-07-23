@@ -109,7 +109,7 @@ TAB = Cycle windows
 
 ## VDM - Vibecoded Display Manager
 ```
-Ported to pigOS from erofs
+Ported to Singularity os from erofs
 Location: /vdm/
 Run: bash /vdm/run-dm.sh
 Note: Requires real GPU hardware, won't work in QEMU
@@ -118,11 +118,11 @@ Note: Requires real GPU hardware, won't work in QEMU
 ## ARCHITECTURE
 ```
 - GRUB bootloader
-- pigKernel (x86_64 Long Mode)
+- nebulaKernel (x86_64 Long Mode)
 - larpshell v5.9.3 (based on lash)
 - VDM - Vibecoded Display Manager (ported from erofs)
-- PigWM (text-mode window manager)
-- pigFS (in-memory filesystem)
+- siWM (text-mode window manager)
+- siFS (in-memory filesystem)
 - poing init system
 - User management system
 - lwIP TCP/IP stack
@@ -145,5 +145,5 @@ Note: Requires real GPU hardware, won't work in QEMU
 
 ## VERSION
 ```
-Singularity os v1.0 - made at school
+Singularity os v1.1
 ```
