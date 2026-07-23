@@ -68,7 +68,7 @@ static void cmd_pigfetch(){
     vstr(13,5,COL(C_BROWN,C_BLACK),"oxxddx");
     vstr(19,5,COL(C_YELLOW,C_BLACK),"OOOk");
     vstr(23,5,COL(C_LRED,C_BLACK),"K");
-    vstr(info_x,5,COL(C_LCYAN,C_BLACK),"WM:      PigWM");
+    vstr(info_x,5,COL(C_LCYAN,C_BLACK),"WM:      nebulaWM");
 
     // Row 6: dxxxkkkkkkkkkxxdddxx'
     vstr(1,6,COL(C_LRED,C_BLACK),"dxxxkkkkkkkkkxxddd");
