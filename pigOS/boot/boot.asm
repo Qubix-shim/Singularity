@@ -1,5 +1,5 @@
 ; ================================================================
-; pigOS - POUG Bootloader Stage (Assembly stub for GRUB multiboot)
+; Singularity - POUG Bootloader Stage (Assembly stub for GRUB multiboot)
 ; Sets up x86_64 long mode then calls kernel_main
 ; ================================================================
 MBOOT_MAGIC    equ 0x1BADB002

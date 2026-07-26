@@ -1,4 +1,4 @@
-; pigOS FLARE - Colorful bootloader
+; Singularity FLARE - Colorful bootloader
 org 0x7C00
 bits 16
 

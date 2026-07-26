@@ -1,5 +1,5 @@
 ; ================================================================
-; pigOS POUG Bootloader Stage 2 - Protected Mode Setup
+; Singularity OS POUG Bootloader Stage 2 - Protected Mode Setup
 ; Loaded at 0x10000 by stage 1
 ; ================================================================
 org 0x10000
