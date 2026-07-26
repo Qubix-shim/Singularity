@@ -1,4 +1,4 @@
-pigOS boot/ - FLARE Bootloader
+nebula boot/ - FLARE Bootloader
 ==============================
 
 boot.asm: x86_64 Assembly Bootstrap
