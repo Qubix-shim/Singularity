@@ -1,7 +1,7 @@
 pigOS wm/ - PigWM Window Manager
 ================================
 
-PigWM: Windows-inspired text-mode compositor
+nebulaos: Windows-inspired text-mode compositor
 --------------------------------------------
 - Login screen after shell login
 - Menubar (top) with pigOS branding
