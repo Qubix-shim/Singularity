@@ -1,4 +1,4 @@
-# pigOS Build Requirements
+# nebulaos Build Requirements
 # Install these packages to build pigOS on your host system
 
 # ========================================
@@ -48,7 +48,7 @@ qemu-system-x86  # QEMU emulator (run pigOS.iso)
 #   - No external dependencies
 
 # ========================================
-# Building pigOS
+# Building nebula os 
 # ========================================
 # From pigOS directory:
 #   make clean    # Clean previous build
