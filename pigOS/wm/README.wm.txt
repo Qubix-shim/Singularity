@@ -1,7 +1,7 @@
-pigOS wm/ - PigWM Window Manager
+nebula wm/ - nebulaWM Window Manager
 ================================
 
-nebulaos: Windows-inspired text-mode compositor
+nebulawm: Windows-inspired text-mode compositor
 --------------------------------------------
 - Login screen after shell login
 - Menubar (top) with pigOS branding
@@ -16,7 +16,7 @@ nebulaos: Windows-inspired text-mode compositor
 - F5 opens power menu
 - ESC returns to shell
 
-PigComp: Compositor
+nebulaComp: Compositor
 -------------------
 - Z-ordered window rendering
 - Handles window drawing and focus
